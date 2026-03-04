@@ -20,6 +20,7 @@ Alles rund um die Industrie- und Handelskammer Mittlerer Niederrhein (Neuss).
 - Gestreckte Abschlussprüfung (AP1 & AP2).
 - Ablauf des betrieblichen Abschlussprojekts.
 - Voraussetzungen für die Prüfungszulassung.
+- **Wichtige Ansprechpartnerinnen bei der IHK.**
 
 ### 2️⃣ [Umschüler-Benefits & Rabatte](./docs/02_Benefits.md)
 Hol dir das zurück, was dir als Auszubildender zusteht! Aber pass auf die Stolpersteine auf.

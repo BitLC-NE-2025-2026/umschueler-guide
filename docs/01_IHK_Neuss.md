@@ -74,5 +74,24 @@ Um zur AP2 zugelassen zu werden, musst du:
 
 </details>
 
+<details>
+<summary><b>5. Zuständige Ansprechpartnerinnen der IHK</b></summary>
+
+Für offizielle und rechtliche Belange rund um deine Ausbildung oder Prüfungsanmeldung am Mittleren Niederrhein sind folgende Personen zuständig:
+
+**Nadine Hennig**
+- **Zuständigkeit:** Ausbildungsberaterin (Ansprechpartnerin für vertragliche Fragen, Ausbildungsordnung, Probleme während der Maßnahme)
+- **Telefon:** +49 2151 635-390
+- **E-Mail:** [nadine.hennig@mittlerer-niederrhein.ihk.de](mailto:nadine.hennig@mittlerer-niederrhein.ihk.de)
+
+**Silke Althaus**
+- **Zuständigkeit:** Prüfungskoordinatorin Ausbildung (Ansprechpartnerin für alles rund um die Prüfungszulassung, Termine, Projektanträge und Mündliche Prüfungen)
+- **Telefon:** +49 2131 9268-574
+- **E-Mail:** [silke.althaus@mittlerer-niederrhein.ihk.de](mailto:silke.althaus@mittlerer-niederrhein.ihk.de)
+
+> [!TIP]
+> Bitte kläre allgemeine organisatorische Fragen immer zuerst mit der **bitlc**, bevor du dich direkt an die IHK wendest!
+</details>
+
 ---
 [Zurück zur Übersicht](../README.md)
