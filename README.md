@@ -34,6 +34,24 @@ Die Software-Branche diskriminiert nicht nach Alter.
 - **JetBrains Educational License** (IntelliJ, Rider, WebStorm, PyCharm).
 - **Cloud Provider** (Möglichkeiten bei Azure, AWS, DigitalOcean).
 
+### 4️⃣ [Git & GitHub Grundlagen](./docs/04_Git_Grundlagen.md)
+Essentiell für die Teamarbeit und Versionierung von Code.
+- Lebenszyklus eines Commits.
+- Branches sicher verwenden.
+- Commits reparieren.
+
+### 5️⃣ [Lerntipps & IHK Prüfungsvorbereitung](./docs/05_Lerntipps.md)
+Besser lernen, statt mehr lernen.
+- Pomodoro und Spaced Repetition (Anki).
+- Rubber Duck Debugging.
+- Die besten Quellen für C# und Webentwicklung.
+
+### 6️⃣ [C# & ASP.NET Core Cheatsheet](./docs/06_CSharp_Cheatsheet.md)
+Zusammenfassung der wichtigsten Programmier-Konzepte.
+- 4 Säulen der OOP.
+- SOLID Prinzipien.
+- Dependency Injection und Entity Framework.
+
 ---
 
 ## 🤝 Contributing / Mitmachen
