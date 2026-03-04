@@ -23,12 +23,12 @@ Das Problem: Die meisten nutzen ChatGPT absolut ineffizient ("Warum geht das nic
 <details open>
 <summary><b>Die Top 3 Modelle (Stand: März 2026)</b></summary>
 
-- **1. Anthropic Claude 3.7 Sonnet:**
-  - *Stärke:* Der absolute, amtierende **König beim Programmieren**. Claude 3.7 dominiert Entwickler-Benchmarks (über 70% im SWE-Bench). Es nutzt sogenanntes *"Hybrid Reasoning"*, bei dem es extrem schnell Standard-Code tippt, aber bei schweren Algorithmen in einen tiefen "Extended Thinking" Modus wechselt. Das Tool *Claude Code* erlaubt es ihm sogar, dein lokales Terminal direkt zu bedienen!
-- **2. OpenAI GPT-4.5 & o3-mini (ChatGPT Plus):**
-  - *Stärke:* OpenAI hat den Markt aufgespalten. **GPT-4.5** ist das Modell für riesiges Weltwissen, kreative Texte und breite General-Aufgaben. **o3-mini** hingegen ist das hoch-optimierte "Reasoning-Modell" für STEM (Mathe, Code, Logik). Es löst komplexe C#-Algorithmen durch extrem tiefes schrittweises Nachdenken ("Reasoning Effort"), bevor es auch nur ein Wort tippt.
-- **3. Google Gemini 2.0 Pro:**
-  - *Stärke:* Das gigantische **Kontext-Fenster**. Gemini kann problemlos 2 Millionen Token auf einmal "lesen". Das bedeutet: Du kannst die gesamte Codebase deiner App (hunderte `.cs` Dateien) auf einmal als Zip hochladen, und die KI behält den Überblick über das ganze Projekt, ohne den Faden zu verlieren.
+- **1. Anthropic Claude 4.6 (Opus & Sonnet):**
+  - *Stärke:* Anthropic hat Anfang 2026 **Claude Opus 4.6** (mit 1-Millionen-Token Fenster) und **Sonnet 4.6** veröffentlicht. Sie sind die unbestrittenen Könige der Code-Generierung. Mit Tools wie *Claude Cowork* und *Claude Code 2.1* agieren sie autonom im Terminal. Claude formuliert deutlich "menschlicher" und halluziniert bei komplexem Refactoring von großen Architektur-Codebases viel seltener als die Konkurrenz.
+- **2. OpenAI GPT-5.3 Instant & o3-mini (ChatGPT):**
+  - *Stärke:* OpenAI liefert mit **GPT-5.3 Instant** (veröffentlicht März 2026) das flüssigste Konversations- und Programmier-Erlebnis mit drastisch reduzierter Halluzinationsrate. Wenn es allerdings an extrem harte Logik- und Mathematikfragen geht, schaltet man auf das **o3-mini** Modell um, welches durch intensive *Gedankenketten (Reasoning)* C#-Algorithmen vorab tiefgreifend durchdenkt, bevor es tippt.
+- **3. Google Gemini 3.1 (Pro & Flash-Lite):**
+  - *Stärke:* Die neue "Gemini 3 Ära". **Gemini 3.1 Pro** ist ein gigantischer Alles-Könner, der Code-Repositories, Videos und riesige Datenmengen durch sein riesiges Kontext-Fenster schluckt. **Gemini 3.1 Flash-Lite** besticht durch absurde Geschwindigkeit und Skalierbarkeit.
 </details>
 
 <details open>
