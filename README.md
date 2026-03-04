@@ -52,6 +52,12 @@ Zusammenfassung der wichtigsten Programmier-Konzepte.
 - SOLID Prinzipien.
 - Dependency Injection und Entity Framework.
 
+### 7️⃣ [Wochenbericht & Fehlzeiten (Formulare)](./docs/07_Formulare_Berichte.md)
+Pflichtdokumente für die IHK und den Bildungsträger.
+- Vorlage für den Wochenbericht (Word).
+- Vorlage für die Fehlzeiten-Dokumentation (Excel).
+- Tipps zum Ausfüllen und der 10%-Krankheitsregel.
+
 ---
 
 ## 🤝 Contributing / Mitmachen

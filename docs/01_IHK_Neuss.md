@@ -39,9 +39,21 @@ Der zweite Teil der Prüfung findet am Ende der Umschulung statt und macht 80% d
 </details>
 
 <details>
-<summary><b>3. Das Abschlussprojekt</b></summary>
+<summary><b>3. Das Abschlussprojekt (FIAE vs. FISI)</b></summary>
 
-Das betriebliche Abschlussprojekt wird im Rahmen des Praktikums durchgeführt. Die **IHK Mittlerer Niederrhein** stellt spezielle Leitfäden für den Projektantrag und die Dokumentation zur Verfügung.
+Das betriebliche Abschlussprojekt wird im Rahmen des Praktikums durchgeführt. Die **IHK Mittlerer Niederrhein** stellt spezielle Leitfäden für den Projektantrag und die Dokumentation zur Verfügung. Der größte Unterschied zwischen den Fachrichtungen liegt in der Art des Projekts:
+
+### 💻 Fachinformatiker für Anwendungsentwicklung (FIAE)
+- **Fokus:** Planung, Entwurf, Programmierung und Testen einer Software(-komponente).
+- **Umfang:** **80 Stunden** (Projektplanung, Durchführung, Dokumentation).
+- **Beispielprojekt:** Entwicklung einer internen Web-App zur Urlaubsverwaltung mit C# und ASP.NET Core, inklusive Datenbankanbindung.
+- **Wichtig:** Es muss deutliche *Eigenleistung* in der Softwareentwicklung erkennbar sein. Das reine "Zusammenklicken" von WordPress-Plugins reicht nicht aus!
+
+### ⚙️ Fachinformatiker für Systemintegration (FISI)
+- **Fokus:** Konzeption, Installation, Konfiguration und Testen komplexer IT-Systeme.
+- **Umfang:** **40 Stunden** (Immer noch 40 Stunden laut vielen Verordnungen, bitte bei der IHK Neuss aktuell gegenprüfen!).
+- **Beispielprojekt:** Konzeption und Einführung eines neuen Backup-Konzepts inklusive Einrichtung eines dedizierten Servers und regelmäßigen Test-Restores.
+- **Wichtig:** Es muss eine kaufmännische Entscheidung (z.B. Make-or-Buy, Nutzwertanalyse) und eine technische Umsetzung enthalten sein.
 
 - **Umfang:** Bei Fachinformatikern meist 40 Stunden (bzw. 80 Stunden je nach Ausbildungsordnung, bei Umschülern greifen oft die regulären 80 Stunden – bitte in der neuesten Verordnung checken!).
 - **Projektantrag:** Muss zwingend über das IHK-Onlineportal eingereicht und genehmigt werden, **bevor** du mit dem Projekt startest!
