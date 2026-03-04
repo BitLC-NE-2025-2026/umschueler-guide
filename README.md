@@ -77,6 +77,24 @@ Kernwissen für FISI und FIAE gleichermaßen.
 - IPv4 Subnetting & CIDR berechnen.
 - VLANs und Trunking.
 
+### 🔟 [WISO Basics (Wirtschafts- & Sozialkunde)](./docs/10_WISO_Basics.md)
+Die Grundlagen für den gefürchteten Teil der AP2.
+- Vertragsrecht & Nichtigkeit/Anfechtbarkeit.
+- Unternehmensformen (GmbH, AG, OHG, KG).
+- Arbeitsrecht, Kündigungsschutz & Sozialversicherung.
+
+### 1️⃣1️⃣ [IT-Recht, Datenschutz (DSGVO) & BFSG](./docs/11_Recht_Datenschutz.md)
+Die Top-Themen für Abschlussprojekte ab 2024/2025.
+- Die 6 Grundregeln der DSGVO für dein Projekt.
+- Das neue Barrierefreiheitsstärkungsgesetz (BFSG) für die IT.
+- Open Source Lizenzen (MIT vs. GPL-Virus).
+
+### 1️⃣2️⃣ [UML Diagramme & Mermaid.js](./docs/12_UML_Mermaid.md)
+Ohne UML keine Zulassung des Abschlussprojekts!
+- Use-Case / Anwendungsfall Diagramme zeichnen.
+- Klassendiagramme & Sequenzdiagramme (inkl. Code-Beispielen).
+- Live-Rendering im Browser mit Mermaid.js Syntax.
+
 ---
 
 ## 🤝 Contributing / Mitmachen
