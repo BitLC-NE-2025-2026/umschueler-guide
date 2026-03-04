@@ -1,8 +1,15 @@
-# Software & Developer Tools für Umschüler
+# 🛠️ Software & Developer Tools für Umschüler
 
-![Tools](https://img.shields.io/badge/Software-Tools-purple?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-Student-black?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-Software_Lizenzen-purple?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-Student_Pack-black?style=for-the-badge) ![Geld_sparen](https://img.shields.io/badge/Kostenlos-Für_Umschüler-brightgreen?style=for-the-badge)
 
-Software-Abonnements können ins Geld gehen. Zum Glück lieben Tech-Firmen Auszubildende und Studenten. Im Gegensatz zu Banken interessiert sich in der Software-Welt **niemand für dein Alter**. Dein Status als Lernender ist alles, was zählt!
+Software-Abonnements können als Entwickler richtig ins Geld gehen. Zum Glück lieben Tech-Firmen Auszubildende und Studenten. Im Gegensatz zu Banken interessiert sich in der Software-Welt **niemand für dein Alter**. Dein Status als Lernender ist alles, was zählt!
+
+---
+
+## 📑 Inhaltsverzeichnis
+1. [🐱 GitHub Student Developer Pack](#-github-student-developer-pack)
+2. [🧠 JetBrains Educational License](#-jetbrains-educational-license)
+3. [☁️ Cloud-Dienste (AWS, Azure, Google Cloud)](#-cloud-dienste-aws-azure-google-cloud)
 
 ---
 
@@ -10,15 +17,14 @@ Software-Abonnements können ins Geld gehen. Zum Glück lieben Tech-Firmen Auszu
 
 Das absolute Highlight für jeden Entwickler-Umschüler! Das GitHub Student Developer Pack gibt dir kostenlosen Zugang zu Premium-Diensten, die sonst hunderte Euro kosten.
 
-<details>
+<details open>
 <summary><b>Was ist drin? (Auszug)</b></summary>
 
-- **GitHub Pro:** Kostenlos, solange du Lernender bist.
+- **GitHub Pro:** Kostenlose Features, solange du Lernender bist.
 - **DigitalOcean:** 200 $ Cloud-Guthaben für deine eigenen Server.
 - **Namecheap / .me:** Kostenlose Domainnamen für 1 Jahr (perfekt fürs Portfolio!).
-- **Bootstrap Studio:** Kostenlose Lizenz.
 - **FrontendMasters / Educative:** Kostenlose Zugänge für Kurse (i.d.R. 6 Monate).
-- Und zig weitere Tools (GitKraken, Termius, MongoDB, etc.).
+- Und zig weitere Tools (GitKraken, Termius, MongoDB, Bootstrap Studio, etc.).
 </details>
 
 <details open>
@@ -56,40 +62,42 @@ Der Prozess bei GitHub ist streng automatisiert und lehnt Umschüler (aufgrund d
 4. Oft wird der Antrag beim 2. oder 3. Versuch manuell von einem Menschen geprüft. Da es sich um ein hochoffizielles IHK-Dokument (Industrie- und Handelskammer) handelt, wird dieser Nachweis dann manuell freigeschaltet.
 
 > [!IMPORTANT]
-> Alternativ-Tipp: Wenn du im Vorfeld bereits die **ISIC** (International Student Identity Card) beantragt hast (siehe *Benefits*), kannst du einfach ein Foto der ISIC-Karte bei GitHub hochladen. Das wird vom Bot zu 99% sofort beim ersten Versuch akzeptiert, da die ISIC eine globale Student-ID ist!
+> Alternativ-Tipp: Wenn du im Vorfeld bereits die **ISIC** ([International Student Identity Card](./02_Benefits.md)) beantragt hast, kannst du einfach ein Foto der ISIC-Karte bei GitHub hochladen. Das wird vom Bot zu 99% sofort beim ersten Versuch akzeptiert, da die ISIC eine globale Student-ID ist!
 </details>
 
 ---
 
 ## 🧠 JetBrains Educational License
 
-JetBrains macht die mit Abstand besten IDEs für Entwickler (IntelliJ für Java, Rider für C#, PyCharm für Python, WebStorm für JS, ReSharper).
+JetBrains macht die mit Abstand besten professionellen IDEs für Entwickler (IntelliJ für Java, Rider für C#, PyCharm für Python, WebStorm für JS, ReSharper).
 
-<details>
+<details open>
 <summary><b>Wie kommst du an die Ultimate-Tools?</b></summary>
 
-Alle Tools sind für dich als Auszubildender/Umschüler **komplett kostenlos**!
+Alle Tools sind für dich als Auszubildender/Umschüler **komplett kostenlos** (Du sparst hunderte Euro im Jahr)!
 
 - **Link:** [JetBrains Free Educational Licenses](https://www.jetbrains.com/community/education/#students)
-- **Beantragung:** Da du keine offizielle Uni-E-Mail hast, wählst du "Official document".
-- Lade deine Schulbescheinigung / IHK-Vertrag hoch.
-- **Tipp:** Wenn du bereits das GitHub Student Developer Pack hast, kannst du JetBrains einfach mit einem Klick über GitHub autorisieren lassen!
+- **Beantragung:** Da du keine offizielle Uni-E-Mail hast, wählst du beim Verifizierungsprozess "Official document". Lade deine IHK-Eintragungsbestätigung hoch.
+
+> [!TIP]
+> **Pro-Tipp:** Wenn du bereits oben das *GitHub Student Developer Pack* erfolgreich freigeschaltet hast, kannst du dich bei JetBrains mit einem Klick über GitHub autorisieren lassen! Der manuelle Upload entfällt dann komplett.
 </details>
 
 ---
 
 ## ☁️ Cloud-Dienste (AWS, Azure, Google Cloud)
 
-Für Abschlussprojekte braucht man oft Cloud-Infrastruktur.
+Für Abschlussprojekte, in denen es um Deployment geht (z.B. als FISI oder FIAE), braucht man oft Cloud-Infrastruktur.
 
-<details>
+<details open>
 <summary><b>Microsoft Azure for Students</b></summary>
-Azure bietet 100 $ kostenloses Guthaben für Studenten.
-- **Hürde:** Fordert zwingend eine `.edu` oder Hochschul-E-Mail-Adresse zur Verifizierung.
-- Als Umschüler scheitert man hier oft, es sei denn, man verifiziert via GitHub Student Developer Pack.
+
+Azure bietet oft 100 $ kostenloses Guthaben speziell für Studenten.
+- **Hürde:** Fordert zwingend eine `.edu` oder Hochschul-E-Mail-Adresse zur Verifizierung. Als Umschüler scheitert man hier oft an der automatisierten Prüfung.
+- **Lösung:** Verifikation über das GitHub Student Developer Pack funktioniert oft reibungslos!
 
 > [!TIP]
-> Die normalen "Free Tiers" von AWS (12 Monate kostenlos) oder Azure (200$ für 30 Tage + Free Services) reichen für IHK-Projekte oft schon völlig aus. Man braucht nicht zwingend den Education-Tarif.
+> Verrenke dich nicht zu sehr für die Studenten-Guthaben! Die normalen **"Free Tiers"** (Kostenlose Kontingente für Neukunden) von AWS (12 Monate kostenlos) oder Azure (200$ Guthaben für 30 Tage + permanente Free Services) reichen für IHK-Projekte in der Regel schon völlig aus.
 </details>
 
 ---

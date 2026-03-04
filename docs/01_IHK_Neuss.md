@@ -1,36 +1,43 @@
-# IHK Mittlerer Niederrhein (Neuss) – Anforderungen & Prüfungen
+# 🏛️ IHK Mittlerer Niederrhein (Neuss) – Anforderungen & Prüfungen
 
-![IHK](https://img.shields.io/badge/IHK-Mittlerer_Niederrhein-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Umschüler-orange?style=for-the-badge)
+![IHK](https://img.shields.io/badge/IHK-Mittlerer_Niederrhein-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/Prüfung-AP1_&_AP2-orange?style=for-the-badge) ![Projekt](https://img.shields.io/badge/Abschluss-Projektarbeit-critical?style=for-the-badge)
 
 Als Umschüler bei der **bitlc** legst du deine Prüfungen vor der IHK Mittlerer Niederrhein (Standort Neuss/Mönchengladbach/Krefeld) ab. Hier findest du alle relevanten Informationen zu den Anforderungen, Abläufen und Besonderheiten der IHK-Prüfung für Fachinformatiker.
 
 ---
 
-## Inhaltsverzeichnis
-1. [Prüfungsteil 1 (AP1)](#prüfungsteil-1-ap1)
-2. [Prüfungsteil 2 (AP2)](#prüfungsteil-2-ap2)
-3. [Das Abschlussprojekt](#das-abschlussprojekt)
-4. [Zulassungsvoraussetzungen](#zulassungsvoraussetzungen)
+## 📑 Inhaltsverzeichnis
+1. [Prüfungsteil 1 (AP1)](#-1-prüfungsteil-1-ap1)
+2. [Prüfungsteil 2 (AP2)](#-2-prüfungsteil-2-ap2)
+3. [Das Abschlussprojekt (FIAE vs. FISI)](#-3-das-abschlussprojekt-fiae-vs-fisi)
+4. [Zulassungsvoraussetzungen](#-4-zulassungsvoraussetzungen)
+5. [Zuständige Ansprechpartnerinnen der IHK](#-5-zuständige-ansprechpartnerinnen-der-ihk)
 
 ---
 
-<details>
-<summary><b>1. Prüfungsteil 1 (AP1)</b></summary>
+## 📝 1. Prüfungsteil 1 (AP1)
 
 Die gestreckte Abschlussprüfung Teil 1 (ehemals Zwischenprüfung) findet in der Regel nach ca. 12-18 Monaten statt (abhängig vom genauen Umschulungszeitplan).
 
-- **Gewichtung:** Zählt 20% für die Endnote.
+<details open>
+<summary><b>Details zur AP1</b></summary>
+
+- **Gewichtung:** Zählt **20%** für die Endnote.
 - **Inhalt:** Einrichten eines IT-gestützten Arbeitsplatzes. (Bereichsübergreifend für alle Fachrichtungen).
 - **Form:** Schriftliche Prüfung (Multiple Choice & offene Aufgaben).
 
 > [!IMPORTANT]
-> Auch wenn es früher nur eine "Zwischenprüfung" ohne Wertung war, zählt die AP1 heute fest in die Abschlussnote!
+> Auch wenn es früher nur eine "Zwischenprüfung" ohne Wertung war, zählt die AP1 heute fest in die Abschlussnote! Nicht auf die leichte Schulter nehmen.
 </details>
 
-<details>
-<summary><b>2. Prüfungsteil 2 (AP2)</b></summary>
+---
 
-Der zweite Teil der Prüfung findet am Ende der Umschulung statt und macht 80% der Gesamtnote aus.
+## 🎓 2. Prüfungsteil 2 (AP2)
+
+Der zweite Teil der Prüfung findet am Ende der Umschulung statt und macht den Löwenanteil von **80% der Gesamtnote** aus.
+
+<details open>
+<summary><b>Details zur AP2</b></summary>
 
 - **Schriftliche Prüfungsbereiche:**
   - Planen und Umsetzen eines Softwareproduktes (für Anwendungsentwicklung) bzw. Konzipieren und Administrieren von IT-Systemen (für Systemintegration).
@@ -38,8 +45,9 @@ Der zweite Teil der Prüfung findet am Ende der Umschulung statt und macht 80% d
 - **Mündliche Prüfung & Projektpräsentation:** Das ist das Kernstück!
 </details>
 
-<details>
-<summary><b>3. Das Abschlussprojekt (FIAE vs. FISI)</b></summary>
+---
+
+## 🚀 3. Das Abschlussprojekt (FIAE vs. FISI)
 
 Das betriebliche Abschlussprojekt wird im Rahmen des Praktikums durchgeführt. Die **IHK Mittlerer Niederrhein** stellt spezielle Leitfäden für den Projektantrag und die Dokumentation zur Verfügung. Der größte Unterschied zwischen den Fachrichtungen liegt in der Art des Projekts:
 
@@ -57,7 +65,7 @@ Das betriebliche Abschlussprojekt wird im Rahmen des Praktikums durchgeführt. D
 
 ---
 
-### 📝 Ablauf & Idiotensicheres Inhaltsverzeichnis (TOC)
+### 📋 Ablauf & Idiotensicheres Inhaltsverzeichnis (TOC)
 
 - **Projektantrag:** Muss zwingend über das IHK-Onlineportal eingereicht und genehmigt werden, **bevor** du mit dem Projekt startest!
 - **Fachgespräch & Präsentation:** Du stellst dein Projekt dem Prüfungsausschuss vor (15 Min Präsentation, 15 Min Fachgespräch).
@@ -65,7 +73,7 @@ Das betriebliche Abschlussprojekt wird im Rahmen des Praktikums durchgeführt. D
 
 Hier ist ein fiktives, idiotensicheres Inhaltsverzeichnis (Table of Contents) als grobe Richtlinie. Passe dies an dein spezifisches Projekt an:
 
-<details open>
+<details>
 <summary><b>TOC-Beispiel für Anwendungsentwickler (FIAE) ~ 15 Seiten Text</b></summary>
 
 1. **Einleitung / Projektumfeld** (ca. 1-2 Seiten)
@@ -90,7 +98,7 @@ Hier ist ein fiktives, idiotensicheres Inhaltsverzeichnis (Table of Contents) al
    - Ausblick für das Produkt
 </details>
 
-<details open>
+<details>
 <summary><b>TOC-Beispiel für Systemintegratoren (FISI) ~ 15 Seiten Text</b></summary>
 
 1. **Einleitung / Projektumfeld** (ca. 1-2 Seiten)
@@ -117,20 +125,22 @@ Hier ist ein fiktives, idiotensicheres Inhaltsverzeichnis (Table of Contents) al
 
 > [!CAUTION]
 > Beginne nie mit der Implementierung deines Projekts, bevor die IHK den Antrag nicht offiziell genehmigt hat! Sonst fällst du gnadenlos durch. (Das Datum der ersten Dateien im Quellcode/Git-Log darf nicht vor dem Zulassungsdatum liegen!).
-</details>
 
-<details>
-<summary><b>4. Zulassungsvoraussetzungen</b></summary>
+---
+
+## 🔒 4. Zulassungsvoraussetzungen
 
 Um zur AP2 zugelassen zu werden, musst du:
 - An der AP1 teilgenommen haben.
 - Die vorgeschriebenen Berichtshefte (Ausbildungsnachweise) lückenlos geführt haben (digital oder analog, wird meist beim Antrag eingereicht).
 - Die Umschulungszeit absolviert haben (bzw. das Praktikum).
 
-</details>
+> [!WARNING]
+> Denke an die strikte [10%-Fehlzeitenregel](./07_Formulare_Berichte.md)! Zu viele Fehlzeiten gefährden deine Zulassung massiv.
 
-<details>
-<summary><b>5. Zuständige Ansprechpartnerinnen der IHK</b></summary>
+---
+
+## 📞 5. Zuständige Ansprechpartnerinnen der IHK
 
 Für offizielle und rechtliche Belange rund um deine Ausbildung oder Prüfungsanmeldung am Mittleren Niederrhein sind folgende Personen zuständig:
 
@@ -146,7 +156,6 @@ Für offizielle und rechtliche Belange rund um deine Ausbildung oder Prüfungsan
 
 > [!TIP]
 > Bitte kläre allgemeine organisatorische Fragen immer zuerst mit der **bitlc**, bevor du dich direkt an die IHK wendest!
-</details>
 
 ---
 [Zurück zur Übersicht](../README.md)
