@@ -1,80 +1,117 @@
-# Umschüler-Benefits: Rabatte, Konten & Vergünstigungen
+# 🎁 Umschüler-Benefits & Rabatte (Der Ultimative Guide)
 
-![Benefits](https://img.shields.io/badge/Benefits-Umschüler-brightgreen?style=for-the-badge) ![Geld_sparen](https://img.shields.io/badge/Gutscheine-Studentenrabatte-red?style=for-the-badge)
+![Benefits](https://img.shields.io/badge/Status-Umschüler_Azubi-brightgreen?style=for-the-badge) ![Geld_sparen](https://img.shields.io/badge/Sparen-Studentenrabatte-red?style=for-the-badge) ![ISIC](https://img.shields.io/badge/Nachweis-ISIC_Karte-blue?style=for-the-badge)
 
-Als Umschüler hast du **Azubi- bzw. Schülerstatus**! Das berechtigt dich zu vielen Vergünstigungen, die normalerweise Auszubildenden oder Studenten vorbehalten sind. Es gibt jedoch einige Einschränkungen, die du kennen solltest (besonders in Bezug auf das Alter!).
+Herzlichen Glückwunsch, als Umschüler der **bitlc** (in Vollzeit) hast du offiziell den **Azubi- bzw. Schülerstatus**! 🎓 
+
+Das bedeutet bares Geld: Du bist berechtigt, zahlreiche Vergünstigungen in Anspruch zu nehmen, die normalerweise Studenten oder klassischen Auszubildenden vorbehalten sind. **Aber Achtung:** Die Bedingungen sind nicht überall gleich. Vor allem das Thema **Alter** ist ein massiver Stolperstein.
+
+---
+
+## 📑 Inhaltsverzeichnis
+1. [Der Master-Schlüssel: Dein IHK-Nachweis](#-der-master-schlüssel-dein-ihk-nachweis)
+2. [💳 Die ISIC (International Student Identity Card)](#-die-isic-international-student-identity-card)
+3. [💻 Hardware-Rabatte (Apple, Lenovo, Dell)](#-hardware-rabatte-apple-lenovo-dell)
+4. [🏦 Bank- und Girokonten](#-bank--und-girokonten)
+5. [📱 Handytarife & Internet (Young-Tarife)](#-handytarife--internet-young-tarife)
+6. [🔗 Weiterführende Links](#-weiterführende-links)
+
+---
+
+## 🔑 Der Master-Schlüssel: Dein IHK-Nachweis
+
+Um jegliche Rabatte zu bekommen, brauchst du einen felsenfesten Beweis, dass du lernst. Vergiss Schulbescheinigungen – es gibt einen **ultimativen Nachweis**:
+
+> [!IMPORTANT]
+> **Die IHK Eintragungsbestätigung!**
+> Du erhältst von der IHK Mittlerer Niederrhein eine E-Mail zur *Bestätigung deines Berufsausbildungsvertrags*. 
+> Mache einen extrem sauberen Screenshot oder **PDF-Export der ersten Seite** dieser E-Mail. 
+>
+> Auf diesem Screenshot muss zwingend stehen:
+> - Dein vollständiger **Name**
+> - Der Ausbildungsbetrieb (**bitlc**)
+> - Der Ausbildungsberuf (z.B. FISI / FIAE)
+> - Der **Zeitraum** der Umschulung
+
+Mit diesem Dokument (als JPG oder PDF) bewaffnet, kannst du 99% aller Rabatt-Türen eintreten!
+
+---
+
+## 💳 Die ISIC (International Student Identity Card)
+
+Die ISIC ist ein international anerkannter Schülerausweis. Er bietet tausende Rabatte (Apple, Microsoft, Kino, Reisen, Spotify etc.). **Sie ist der wichtigste Ausweis für ältere Umschüler!**
+
+<details open>
+<summary><b>Gilt die ISIC für Umschüler? (Ja!)</b></summary>
+
+Als Umschüler in Vollzeit qualifizierst du dich für die normale **ISIC** oder den nationalen Schülerausweis.
+- **Alter:** Keine Altersbeschränkung! 🎉 (Egal ob du 20 oder 55 bist).
+- **Kosten:** Ca. 18 € für ein Jahr.
+- **Voraussetzung:** Lade bei der Beantragung einfach deine [IHK-Eintragungsbestätigung](#-der-master-schlüssel-dein-ihk-nachweis) hoch.
+</details>
+
+> [!TIP]
+> **Warum brauchst du die ISIC?**  
+> Die ISIC amortisiert sich meist schon beim ersten Kauf. Außerdem ist ein Foto deiner fertigen ISIC-Karte der **allerbeste Nachweis** für das begehrte [GitHub Student Developer Pack](./03_Software_Tools.md) (siehe Software Tools Guide).
+
+---
+
+## 💻 Hardware-Rabatte (Apple, Lenovo, Dell)
+
+Du brauchst einen Laptop für die Umschulung? Campus-Shops und Education-Stores bieten fette Rabatte auf potente Hardware!
+
+<details open>
+<summary><b>🍎 Apple Education Store (MacBooks & iPads)</b></summary>
+
+Apple bietet Edu-Preise an, verlangt online aber oft die Verifizierung über den Dienst *UNiDAYS*.
+- **Das Problem:** UNiDAYS zickt bei Umschülern der bitlc oft rum, weil sie eine offizielle Hochschul-E-Mail (`.edu` oder `@uni-koeln.de`) fordern.
+- **Der Workaround (Offline):** Gehe in einen echten Apple Store (z.B. in Düsseldorf oder Köln). Zeige dort am iPad/Mac direkt deinen [IHK-Nachweis](#-der-master-schlüssel-dein-ihk-nachweis) und/oder deine ISIC vor. Das wird vom Personal in der Regel ohne Fragen zu 100% akzeptiert!
+</details>
+
+<details open>
+<summary><b>💻 Lenovo Campus & Dell Advantage (ThinkPads & XPS)</b></summary>
+
+Shops wie *Campuspoint* oder *Lenovo Campus* verkaufen High-End-ThinkPads für Auszubildende deutlich günstiger (oft ohne vorinstalliertes Betriebssystem, was ideal ist).
+- **Der Prozess:** Hier reicht es zu 99% aus, nach der Bestellung deinen IHK-Nachweis oder die bitlc-Schulbescheinigung als PDF hochzuladen.
+</details>
 
 ---
 
 ## 🏦 Bank- und Girokonten
 
-Viele Banken bieten kostenlose Girokonten für Schüler, Azubis und Studenten an.
+Viele Banken bewerben "kostenlose Azubi- und Studentenkonten" in bunten Farben. 
 
-<details>
-<summary><b>Einschränkung: Die Altersgrenze</b></summary>
-Die meisten Banken (z.B. Sparkasse, Volksbank, ING, DKB) bieten das kostenlose Azubi-Konto nur **bis zur Vollendung des 27. oder 30. Lebensjahres** an!  
+<details open>
+<summary><b>Einschränkung: Die bittere Altersgrenze</b></summary>
+
+Die meisten Filial- und Direktbanken (z.B. Sparkasse, Volksbank, ING, DKB, Commerzbank) bieten das kostenlose Azubi-Konto **NUR bis zur Vollendung des 27. oder 30. Lebensjahres** an!  
 
 > [!WARNING]
-> Bist du älter als die jeweilige Altersgrenze der Bank, zahlst du in der Regel die **vollen Kontoführungsgebühren**, auch wenn du offiziell einen Umschulungsvertrag der IHK oder bitlc vorlegen kannst. Es lohnt sich, nach Banken zu suchen, die bedingungslos kostenlos sind (z.B. C24 oder N26), anstatt auf Azubi-Tarife zu hoffen.
-</details>
-
-<details>
-<summary><b>Nachweis für die Bank</b></summary>
-Falls du altersmäßig noch hereinfällst, akzeptieren die Banken in der Regel:
-1. Deinen beschulten Bildungsträgervertrag (bitlc).
-2. Den IHK-Eintragungsnachweis.
-3. Schulbescheinigung der Berufsschule (falls du eine besuchst).
+> Bist du älter als 27/30 Jahre, zahlst du in der Regel die **vollen Kontoführungsgebühren**, auch wenn du offiziell einen Umschulungsvertrag der IHK vorlegen kannst! 
+> 
+> **Die Lösung:** Verschwende keine Zeit mit Diskussionen am Schalter. Suche dir direkt eine Bank, die **bedingungslos kostenlos** für alle Altersgruppen ist (z.B. C24 Bank oder N26).
 </details>
 
 ---
 
 ## 📱 Handytarife & Internet (Young-Tarife)
 
-Telekom, Vodafone und O2 bieten drastisch vergünstigte Tarife mit mehr Datenvolumen an (z.B. "MagentaMobil Young").
+Telekom, Vodafone und O2 bieten drastisch vergünstigte "Young"-Tarife mit massig Datenvolumen an (z.B. "MagentaMobil Young").
 
-<details>
-<summary><b>Einschränkung: Die Altersgrenze greift hier hart!</b></summary>
-Diese Tarife heißen "Young" aus gutem Grund. Sie gelten fast ausnahmslos **nur für Personen unter 28 Jahren**. Manche Anbieter setzen die Grenze sogar schon bei 25! Wer älter ist, bekommt den Rabatt nicht, Umschüler-Status hin oder her.
+<details open>
+<summary><b>Einschränkung: Hard Limit beim Alter!</b></summary>
+
+Diese Tarife heißen "Young" aus gutem Grund. Sie gelten fast ausnahmslos **nur für Personen unter 28 Jahren**. Manche Anbieter setzen die Grenze sogar schon bei 25 Jahren! 
+
+*Wer älter ist, bekommt den Rabatt nicht – Umschüler-Status hin oder her.* Auch hier hilft dir dein IHK-Vertrag leider nicht weiter. Schau dich alternativ nach Discountern (Fraenk, Simon Mobile, Congstar) um.
 </details>
 
 ---
 
-## 💳 Die ISIC (International Student Identity Card)
+## 🔗 Weiterführende Links
 
-Die ISIC ist ein international anerkannter Schülerausweis. Er bietet tausende Rabatte (Apple, Microsoft, Software, Kino, Reisen).
-
-<details>
-<summary><b>Gilt die ISIC für Umschüler?</b></summary>
-**Ja!** Als Umschüler in Vollzeit qualifizierst du dich für die normale ISIC oder die ITIC (International Teacher Identity Card) / Schülerausweis.
-- **Alter:** Keine Altersbeschränkung! 🎉
-- **Kosten:** Ca. 18 € für ein Jahr.
-- **Voraussetzung / Nachweis:**
-  - Am einfachsten und sichersten: Die **erste Seite der E-Mail der IHK mit der Eintragungsbestätigung** (oft "Eintragungsnachweis" oder "Bestätigung Berufsausbildungsvertrag" genannt). 
-  - Alternativ: Die Bescheinigung der bitlc, dass du eine Umschulung/Ausbildung in Vollzeit absolvierst (mindestens 15h Unterricht pro Woche für mindestens 6 Monate).
-
-> [!TIP]
-> Die IHK-Eintragungsbestätigung ist Gold wert! Mache am besten einen gut lesbaren Screenshot oder PDF-Ausdruck der ersten Seite dieser IHK-E-Mail (auf der dein Name, Ausbildungsberuf und Zeitraum stehen). Dies ist der stärkste offizielle Nachweis, den du hast! Die ISIC amortisiert sich teilweise schon beim ersten Kauf von Software oder Hardware.
-</details>
-
----
-
-## 💻 Hardware-Rabatte (Apple, Lenovo, Dell)
-
-Campus-Shops und Education-Stores bieten Rabatte auf Laptops und Tablets.
-
-<details>
-<summary><b>Apple Education Store 🍎</b></summary>
-Hier gibt es Macs und iPads günstiger.
-- Verlangt oft die Verifizierung über *UNiDAYS*.
-- UNiDAYS akzeptiert Umschüler der bitlc manchmal nur schwer, weil sie eine offizielle Hochschul-E-Mail-Adresse fordern (.edu oder uni-domain).
-- **Workaround:** Im Apple Store (vor Ort) den IHK-Ausbildungsvertrag und die bitlc-Bescheinigung vorzeigen. Das klappt sehr oft!
-</details>
-
-<details>
-<summary><b>Lenovo Campus & Dell Advantage 💻</b></summary>
-Campuspoint oder ähnliche Reseller verkaufen ThinkPads für Auszubildende deutlich günstiger (ohne Betriebssystem).
-- **Nachweis:** Die IHK-Bescheinigung oder bitlc-Schulbescheinigung hochladen reicht zu 99% aus.
-</details>
+Nachdem du deine Hardware gesichert hast, hol dir als Nächstes die wichtigsten Software-Lizenzen (kostenlos!):
+👉 **[Gehe zum Software & Developer Tools Guide](./03_Software_Tools.md)**
 
 ---
 [Zurück zur Übersicht](../README.md)
