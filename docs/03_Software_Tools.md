@@ -21,14 +21,42 @@ Das absolute Highlight für jeden Entwickler-Umschüler! Das GitHub Student Deve
 - Und zig weitere Tools (GitKraken, Termius, MongoDB, etc.).
 </details>
 
-<details>
-<summary><b>Wie bekommst du es als bitlc-Umschüler?</b></summary>
+<details open>
+<summary><b>Schritt-für-Schritt Anleitung: So bekommst du das GitHub Pack als Umschüler</b></summary>
 
+Der Prozess bei GitHub ist streng automatisiert und lehnt Umschüler (aufgrund der fehlenden Uni-Email-Adresse) beim ersten Versuch fast immer ab. Befolge diese exakten Schritte, um erfolgreich zu sein:
+
+**Vorbereitung: Dein offizieller Nachweis**
+- Du benötigst die **erste Seite der E-Mail der IHK mit der Eintragungsbestätigung** in das Verzeichnis der Berufsbildungsverhältnisse.
+- Auf dieser Seite müssen zwingend erkennbar sein: Dein **Name**, der **Name des Bildungsträgers/Betriebs** (bitlc) und das **Datum/der Zeitraum** der Ausbildung.
+- Speichere dieses Dokument als gut lesbares Bild (JPG/PNG) oder PDF. Ein Foto deines Bildschirms (vom Handy abfotografiert) wird oft wegen "schlechter Qualität" vom Bot abgelehnt – mache einen sauberen Screenshot (z.B. mit dem Snipping Tool).
+
+**Schritt 1: GitHub Profil anpassen**
+1. Stelle sicher, dass in deinem GitHub-Profil (`github.com/settings/profile`) dein **echter Vor- und Nachname** (genau wie auf der IHK-Bestätigung) eingetragen ist.
+2. Füge eine kurze Bio hinzu, die deinen Status verdeutlicht (z.B. *"Trainee Software Developer at bitlc / IHK Mittlerer Niederrhein"*).
+
+**Schritt 2: Die Beantragung**
 1. Gehe auf [education.github.com/pack](https://education.github.com/pack).
-2. Klicke auf "Get your pack".
-3. Lade als Nachweis deine **bitlc-Anmeldebestätigung / Schulbescheinigung** hoch.
-4. **Wichtig:** Achte darauf, dass auf dem Dokument ein Datum steht, aus dem hervorgeht, wie lange die Umschulung dauert (z.B. 2024-2026)!
-5. Manchmal wird es abgelehnt, weil die bitlc keine Uni ist. **Nicht aufgeben!** Einfach erneut einreichen und ggf. den IHK-Zettel als "Proof of Enrollment" dazulegen. (Ein ISIC-Ausweis hilft hier auch zu 100%).
+2. Klicke auf den Button **"Get your pack"**.
+3. Logge dich mit deinem GitHub-Account ein.
+4. Bei der Frage nach dem akademischen Status wählst du **Student**.
+5. Wähle deine E-Mail-Adresse aus (auch wenn es eine normale @gmail.com ist, mach dir keine Sorgen).
+6. Bei "What is the name of your school?" tippst du **bitlc** (oder das, was exakt als Ausbildungsbetrieb auf der IHK-Bestätigung steht).
+7. Bei "How do you plan to use GitHub?" schreibst du **auf Englisch** 2-3 Sätze (z.B. *"I am currently a full-time trainee focusing on software development. I need the developer pack for my final IHK exams, to host my portfolio securely, and to learn continuous integration with GitHub Pro."*).
+
+**Schritt 3: Bild-Upload & Verifizierung**
+1. Im nächsten Schritt wählst du "Proof of enrollment". Das System fragt nach einem Foto.
+2. Wenn du nur die Webcam zur Auswahl hast: Halte die ausgedruckte IHK-Eintragungsbestätigung (erste Seite!) ruhig in die Kamera, sodass alles perfekt lesbar ist.
+3. Wenn du einen Datei-Upload hast: Lade deinen sauberen Screenshot/PDF hoch.
+
+**Schritt 4: Ablehnung & Widerspruch (Der wichtigste Teil!)**
+1. Meistens bekommst du innerhalb von 5 Minuten eine automatische Ablehnung. **Das ist normal! Nicht aufgeben!**
+2. In der E-Mail oder auf der Statusseite steht oft: *"Your proof doesn't include a date"* oder *"School not recognized"*.
+3. **Versuche es noch einmal!** Reiche den Antrag ein zweites Mal ein. Lade exakt dasselbe IHK-Dokument hoch.
+4. Oft wird der Antrag beim 2. oder 3. Versuch manuell von einem Menschen geprüft. Da es sich um ein hochoffizielles IHK-Dokument (Industrie- und Handelskammer) handelt, wird dieser Nachweis dann manuell freigeschaltet.
+
+> [!IMPORTANT]
+> Alternativ-Tipp: Wenn du im Vorfeld bereits die **ISIC** (International Student Identity Card) beantragt hast (siehe *Benefits*), kannst du einfach ein Foto der ISIC-Karte bei GitHub hochladen. Das wird vom Bot zu 99% sofort beim ersten Versuch akzeptiert, da die ISIC eine globale Student-ID ist!
 </details>
 
 ---

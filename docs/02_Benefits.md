@@ -48,10 +48,12 @@ Die ISIC ist ein international anerkannter Schülerausweis. Er bietet tausende R
 **Ja!** Als Umschüler in Vollzeit qualifizierst du dich für die normale ISIC oder die ITIC (International Teacher Identity Card) / Schülerausweis.
 - **Alter:** Keine Altersbeschränkung! 🎉
 - **Kosten:** Ca. 18 € für ein Jahr.
-- **Voraussetzung:** Bescheinigung der bitlc, dass du eine Umschulung / Ausbildung in Vollzeit absolvierst (mindestens 15h Unterricht pro Woche für mindestens 6 Monate).
+- **Voraussetzung / Nachweis:**
+  - Am einfachsten und sichersten: Die **erste Seite der E-Mail der IHK mit der Eintragungsbestätigung** (oft "Eintragungsnachweis" oder "Bestätigung Berufsausbildungsvertrag" genannt). 
+  - Alternativ: Die Bescheinigung der bitlc, dass du eine Umschulung/Ausbildung in Vollzeit absolvierst (mindestens 15h Unterricht pro Woche für mindestens 6 Monate).
 
 > [!TIP]
-> Die ISIC ist oft der einzige Weg, wie Umschüler über 30 an internationale Rabatte kommen. Sie amortisiert sich teilweise schon beim ersten Kauf von Software oder Hardware!
+> Die IHK-Eintragungsbestätigung ist Gold wert! Mache am besten einen gut lesbaren Screenshot oder PDF-Ausdruck der ersten Seite dieser IHK-E-Mail (auf der dein Name, Ausbildungsberuf und Zeitraum stehen). Dies ist der stärkste offizielle Nachweis, den du hast! Die ISIC amortisiert sich teilweise schon beim ersten Kauf von Software oder Hardware.
 </details>
 
 ---
