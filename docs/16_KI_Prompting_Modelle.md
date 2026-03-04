@@ -21,14 +21,14 @@ Das Problem: Die meisten nutzen ChatGPT absolut ineffizient ("Warum geht das nic
 "ChatGPT" ist nur das Produkt. "GPT-4" ist das Sprachmodell (LLM, Large Language Model) dahinter. Es gibt auf der Welt aktuell ein hart umkämpftes "Wettrennen" der Big-Tech-Firmen. 
 
 <details open>
-<summary><b>Die Top 3 Modelle (Stand 2024/2025)</b></summary>
+<summary><b>Die Top 3 Modelle (Stand: März 2026)</b></summary>
 
-- **1. Anthropic Claude 3.5 Sonnet / Opus:**
-  - *Stärke:* Der absolute, amtierende **König beim Programmieren (Code Generation)**! Claude ist deutlich "menschlicher" in der Texterstellung, weniger geschwätzig als GPT-4 und halluziniert seltener Code. Ideal, um große Textmengen oder Projekt-Codes zu analysieren.
-- **2. OpenAI GPT-4o / "o1" (ChatGPT Plus):**
-  - *Stärke:* Logik und Ökosystem. GPT-4 ist massiv vielseitig (Bilder generieren, Web-Scraping, Python-Umgebung ausführen). Die neuen `o1` (Strawberry) Modelle sind extrem gut in Mathe und schwerer Coder-Logik, weil sie vor der Antwort "nachdenken".
-- **3. Google Gemini 1.5 Pro:**
-  - *Stärke:* Das **Kontext-Fenster**. Gemini kann 1-2 Millionen Token auf einmal "lesen". Das bedeutet: Du kannst ein gesamtes Buch oder den Code deiner gesamten App (hunderte `.cs` Dateien) auf einmal in den Chat werfen, und die KI behält den Überblick über das ganze Projekt.
+- **1. Anthropic Claude 3.5 / 3.7 Sonnet:**
+  - *Stärke:* Der absolute, amtierende **König beim Programmieren (Code Generation)**! Claude ist deutlich "menschlicher" in der Texterstellung, fokussiert und halluziniert extrem selten Code. Perfekt für das Schreiben und Refactoren komplexer Architekturen.
+- **2. OpenAI GPT-4.5 / o3-mini (ChatGPT Plus):**
+  - *Stärke:* Logik und Ökosystem. GPT dominiert durch Vielseitigkeit (Bilder, Web-Scraping, Python-Umgebung). Die neuen `o3-mini` (Reasoning) Modelle sind extrem gut in Mathe und schwerster Coder-Logik (Algorithmik), weil sie vor der Ausgabe in Gedankenketten "nachdenken".
+- **3. Google Gemini 1.5 / 2.0 Pro:**
+  - *Stärke:* Das gigantische **Kontext-Fenster**. Gemini kann bis zu 2 Millionen Token auf einmal "lesen". Das bedeutet: Du kannst die gesamte Codebase deiner App (hunderte `.cs` Dateien) auf einmal als Zip hochladen, und die KI behält den Überblick über das ganze Projekt, ohne den Faden zu verlieren.
 </details>
 
 <details open>
@@ -37,6 +37,16 @@ Das Problem: Die meisten nutzen ChatGPT absolut ineffizient ("Warum geht das nic
 Wir tippen Code nicht mehr selbst im Browser bei ChatGPT ein, das dauert zu lange ("Copy & Paste Hell"). 
 Als Umschüler mit dem [GitHub Student Pack](./03_Software_Tools.md) erhältst du die **GitHub Copilot** Extension für Visual Studio und VS Code umsonst!
 - *Tipp-Vervollständigung (Ghost Text):* Du schreibst einfach den Kommentar `// Generiere eine Methode, die alle Umlaute aus einem String entfernt` und Copilot tippt den perfekten C#-Code in Millisekunden für dich hin. Du bestätigst nur mit der TAB-Taste.
+</details>
+
+<details open>
+<summary><b>🔥 Der Gamechanger: MCP (Model Context Protocol) & Agentic Workflows</b></summary>
+
+Der neueste Industrie-Standard (2026). Früher konnte ChatGPT nur Text lesen und schreiben. **MCP (Model Context Protocol)** ändert alles: Es erlaubt KIs, *direkt* mit deinen lokalen Tools zu sprechen!
+
+- **Wie es funktioniert:** Du startest einen lokalen "MCP Server" auf deinem Windows-PC. Die KI (z.B. in der IDE "Cursor" oder in der Claude Desktop App) verbindet sich damit.
+- **Der Nutzen:** Die KI kann nun autonom Befehle ausführen. Sie liest direkt aus deiner lokalen PostgreSQL Datenbank, sie führt selbstständig `dotnet build` in deinem Terminal aus, schaut sich die Fehlermeldungen an und korrigiert den Code live, ohne dass du auch nur einmal Copy & Paste nutzen musst!
+- **Agentic AI:** Dadurch wird die KI vom reinen "Chatbot" zum "Agenten", der auf deinem Rechner wie ein Junior-Entwickler selbstständig Dateien anlegt, GitHub-Tickets liest und Jira-Tasks schließt.
 </details>
 
 ---

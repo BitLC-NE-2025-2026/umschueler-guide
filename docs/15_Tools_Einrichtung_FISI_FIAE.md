@@ -34,12 +34,13 @@ Die Standard `cmd.exe` ist tot. Installiere das neue **Windows Terminal** (aus d
 </details>
 
 <details open>
-<summary><b>3. Git & Ein GUI-Client</b></summary>
+<summary><b>3. Git & Die Macht der GUI (GitKraken)</b></summary>
 
-Natürlich musst du `git` installieren (git-scm.com). Aber im Berufsalltag hilft ein gutes **G**raphical **U**ser **I**nterface massiv bei Merge-Konflikten.
-- **GitKraken** (kostenlos mit dem [GitHub Student Pack](./03_Software_Tools.md)!). Visuell unschlagbar.
-- **Fork** (Extrem schnell, Mac & Windows).
-- **GitHub Desktop** (Sehr simpel, für den Einstieg am besten).
+Jeder Terminal-Purist sagt dir: *"Du musst Git in der Kommandozeile tippen!"* Das stimmt für `git commit` und `git push`. Aber im Berufsalltag mit 15 Kollegen hilft ein gutes **G**raphical **U**ser **I**nterface massiv bei Merge-Konflikten und Tracing!
+- **GitKraken** (kostenlos mit dem [GitHub Student Pack](./03_Software_Tools.md)!). Die visuell unschlagbare Lösung. 
+  - *Warum?* Es zeigt einen wunderschönen, bunten Commit-Graphen. Du kannst Branches einfach per "Drag & Drop" übereinanderziehen, um sie zu mergen. Du kannst per Klick ein "Interactive Rebase" machen (Commits zusammenfassen), wofür du in der Kommandozeile Kryptologie studiert haben müsstest.
+- **Fork** (Extrem schnell, Mac & Windows. Einmalig ~50$, aber unbegrenzt gratis testbar).
+- **GitHub Desktop** (Sehr simpel, für den absoluten Einstieg am besten. Wer Angst vor Git hat, startet hier).
 </details>
 
 ---
