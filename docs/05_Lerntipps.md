@@ -35,7 +35,23 @@ Einfach nur Skripte durchlesen bringt für die Prüfung extrem wenig. Nutze stat
 </details>
 
 <details open>
-<summary><b>3. Rubber Duck Debugging (Fürs Programmieren)</b></summary>
+<summary><b>3. Active Recall (Aktiv abrufen statt passiv lesen)</b></summary>
+
+Das bloße Markieren von IHK-Skripten mit Textmarkern ist Zeitverschwendung. Das Gehirn lernt nur durch Anstrengung.
+- **Prinzip:** Lies ein Kapitel. Klappe das Skript zu! Nimm ein leeres Blatt Papier und zwinge dich, alles aus dem Kopf aufzuzeichnen oder aufzuschreiben (z.B. das OSI-Modell). 
+- Erst was du *aktiv abrufen* kannst, sitzt wirklich.
+</details>
+
+<details open>
+<summary><b>4. Die Feynman-Methode</b></summary>
+
+Albert Einstein sagte angeblich: *"Wenn du es einem Sechsjährigen nicht erklären kannst, hast du es selbst nicht verstanden."*
+- **Prinzip:** Erkläre ein komplexes Konzept (wie Polymorphie in C#) lautstark einer echten Person (oder dem Spiegel).
+- Vermeide jegliche Fachbegriffe! Nutze simple Analogien aus dem echten Leben (z.B. "Ein Interface ist wie ein Bauplan für ein Haus"). Stockst du oder musst doch wieder Fremdwörter benutzen, weißt du genau, wo deine Wissenslücken liegen.
+</details>
+
+<details open>
+<summary><b>5. Rubber Duck Debugging (Fürs Programmieren)</b></summary>
 
 Du hängst an einem Bug in C# oder JavaScript und kommst einfach nicht weiter?
 - **Der Trick:** Besorge dir eine kleine Quietscheente (oder stell dir eine vor). Erkläre der Ente lauthals, Zeile für Zeile, was dein Code *eigentlich* tun soll und was er *tatsächlich* tut.

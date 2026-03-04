@@ -120,4 +120,35 @@ git revert <commit-hash>
 </details>
 
 ---
+
+## 📁 GitHub Specials: README, .gitignore & Actions
+
+GitHub ist mehr als nur ein Cloud-Speicher für Code. Es bietet mächtige Werkzeuge, um dein Projekt professionell zu präsentieren und zu managen.
+
+<details open>
+<summary><b>1. Die .gitignore Datei (Lebenswichtig!)</b></summary>
+
+Es gibt Dateien, die **niemals** auf GitHub landen dürfen! Dazu gehören kompilierte Dateien (`bin/`, `obj/`), riesige Paket-Ordner (`node_modules/`) oder Dateien mit sensiblen Passwörtern (`appsettings.json`, `.env`).
+- **Lösung:** Erstelle eine Datei namens `.gitignore` direkt im Hauptordner deines Projekts.
+- Trage dort die Namen der Ordner und Dateien ein, die Git komplett ignorieren soll. Wenn du in Visual Studio ein neues Projekt anlegst, generiert es oft schon automatisch eine exzellente `.gitignore` für C#.
+</details>
+
+<details open>
+<summary><b>2. Die README.md (Das Aushängeschild)</b></summary>
+
+Wenn ein Personaler oder Prüfer dein GitHub-Repo öffnet, sieht er als Erstes die `README.md`. 
+- Schreibe diese Datei in **Markdown** (so wie all diese Ratgeber-Dateien hier).
+- Nutze Bilder, Emojis, Code-Blöcke und "Shields" (Badges), um das Projekt professionell wirken zu lassen.
+- Erkläre kurz: Was macht das Projekt? Welche Technologien wurden genutzt? Wie startet man es lokal?
+</details>
+
+<details open>
+<summary><b>3. GitHub Actions (CI/CD)</b></summary>
+
+Automation pur! Mit GitHub Actions (im Reiter "Actions" auf GitHub) kannst du kleine Server-Scripte (sogenannte Workflows) schreiben. 
+- **Beispiel:** Du stellst ein, dass *jedes Mal*, wenn du Code auf den `main` Branch pushst, ein GitHub-Server hochfährt, all deine C#-Unit-Tests automatisch ausführt und dir eine E-Mail schreibt, wenn ein Test fehlschlägt.
+- Später kannst du damit sogar Code automatisch auf deinen Server (z.B. in die Oracle Cloud) hochladen ("Continuous Deployment").
+</details>
+
+---
 [Zurück zur Übersicht](../README.md)

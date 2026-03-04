@@ -108,6 +108,26 @@ Diese Tarife heißen "Young" aus gutem Grund. Sie gelten fast ausnahmslos **nur 
 
 ---
 
+## 🎧 Weitere beliebte Rabatte (Spotify, Amazon, Notion)
+
+Neben Hardware und Bankkonten gibt es auch im Alltag viele Möglichkeiten zu sparen.
+
+<details open>
+<summary><b>Spotify Premium Student & Amazon Prime</b></summary>
+
+- **Spotify Student (Rabatt auf Premium):** Spotify nutzt den Verifizierungsdienst *SheerID*. Wie bei UNiDAYS führt das bei bitlc-Umschülern oft zu Problemen. **Tipp:** Versuche beim manuellen Upload-Prozess deine ISIC-Karte oder die IHK-Eintragungsbestätigung hochzuladen. Eine Garantie gibt es leider nicht.
+- **Amazon Prime Student (50% Rabatt):** Amazon fordert normalerweise eine Hochschul-E-Mail-Adresse. Wenn du keine hast, kannst du den Support kontaktieren und deinen IHK-Nachweis sowie deinen Personalausweis vorlegen. Amazon schaltet den Rabatt dann oft manuell frei (gilt für max. 4 Jahre).
+</details>
+
+<details open>
+<summary><b>Notion & Canva Pro (Über GitHub)</b></summary>
+
+- Tools wie das Notizen-Wunder **Notion** oder das Design-Tool **Canva** bieten ihre "Pro"-Versionen für Studenten komplett kostenlos an.
+- **Der ideale Weg:** Beantrage zuerst das [GitHub Student Developer Pack](./03_Software_Tools.md). Sobald du dieses hast, kannst du dich bei Notion und Canva (und vielen weiteren!) einfach mit deinem GitHub-Konto (via SSO) anmelden und erhältst sofort den Pro-Status, ganz ohne weitere Dokumentenprüfung!
+</details>
+
+---
+
 ## 🔗 Weiterführende Links
 
 Nachdem du deine Hardware gesichert hast, hol dir als Nächstes die wichtigsten Software-Lizenzen (kostenlos!):

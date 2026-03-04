@@ -85,9 +85,23 @@ Alle Tools sind für dich als Auszubildender/Umschüler **komplett kostenlos** (
 
 ---
 
-## ☁️ Cloud-Dienste (AWS, Azure, Google Cloud)
+## ☁️ Cloud-Dienste (AWS, Azure, Oracle, Google Cloud)
 
-Für Abschlussprojekte, in denen es um Deployment geht (z.B. als FISI oder FIAE), braucht man oft Cloud-Infrastruktur.
+Für Abschlussprojekte, in denen es um Deployment geht (z.B. als FISI oder FIAE), braucht man oft permanente Cloud-Infrastruktur.
+
+<details open>
+<summary><b>🔥 Der Geheimtipp: Oracle Cloud Always Free Tier</b></summary>
+
+Während AWS und Azure ihre "Free Tiers" oft nach 12 Monaten kappen oder auf lahmende Micro-Server beschränken, bietet Oracle ein absolut unschlagbares **"Always Free"** Angebot. Jeder (nicht nur Studenten!) kann sich das holen, du brauchst nur eine Kreditkarte zur Verifizierung (es wird nichts abgebucht).
+
+**Was ist dauerhaft gratis drin?**
+- **4x ARM Ampere A1 Compute-Instanzen** mit absurdlosen **24 GB RAM** (perfekt für Docker, Minecraft Server, fette Web-Apps).
+- Oder 2x AMD Micro-Instanzen (Normaler x86 RAM).
+- 200 GB Block Volume Storage.
+- 10 TB Outbound Data Transfer pro Monat.
+
+Das ist mit Abstand das großzügigste Angebot auf dem gesamten Cloud-Markt und eignet sich perfekt, um dein Portfolio oder dein IHK-Projekt dauerhaft und kostenlos im Internet zu hosten!
+</details>
 
 <details open>
 <summary><b>Microsoft Azure for Students</b></summary>

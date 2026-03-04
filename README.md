@@ -14,6 +14,12 @@ Dieses Repo dient als zentrale Anlaufstelle und Nachschlagewerk für alle angehe
 
 Klicke auf die Links, um zu den detaillierten Ratgebern im `docs/`-Ordner zu gelangen:
 
+### 0️⃣ [Anmeldung, Ablauf & Rechte](./docs/00_Anmeldung_Ablauf.md)
+Der Start der Umschulung und was du wissen musst.
+- Der Bildungsgutschein.
+- Allgemeine Zeiten (Praktikum vs. Schule).
+- Rechte & Pflichten (BBiG).
+
 ### 1️⃣ [IHK Anforderungen & Prüfungen](./docs/01_IHK_Neuss.md)
 Alles rund um die Industrie- und Handelskammer Mittlerer Niederrhein (Neuss).
 - Ablauf der Umschulung & Prüfungsstruktur.
@@ -58,6 +64,18 @@ Pflichtdokumente für die IHK und den Bildungsträger.
 - Vorlage für den Wochenbericht (Word).
 - Vorlage für die Fehlzeiten-Dokumentation (Excel).
 - Tipps zum Ausfüllen und der 10%-Krankheitsregel.
+
+### 8️⃣ [Datenbanken Basics & SQL Cheatsheet](./docs/08_Datenbanken_Basics.md)
+Unverzichtbar für AP1 und AP2.
+- Normalisierung (1NF, 2NF, 3NF).
+- ER-Modell (Kardinalitäten).
+- DDL & DML Commands (CRUD, JOINs, GROUP BY).
+
+### 9️⃣ [Netzwerke, IPv4 & VLAN Basics](./docs/09_Netzwerke_Basics.md)
+Kernwissen für FISI und FIAE gleichermaßen.
+- Das OSI-Schichtenmodell.
+- IPv4 Subnetting & CIDR berechnen.
+- VLANs und Trunking.
 
 ---
 
