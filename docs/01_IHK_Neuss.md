@@ -51,17 +51,72 @@ Das betriebliche Abschlussprojekt wird im Rahmen des Praktikums durchgeführt. D
 
 ### ⚙️ Fachinformatiker für Systemintegration (FISI)
 - **Fokus:** Konzeption, Installation, Konfiguration und Testen komplexer IT-Systeme.
-- **Umfang:** **40 Stunden** (Immer noch 40 Stunden laut vielen Verordnungen, bitte bei der IHK Neuss aktuell gegenprüfen!).
+- **Umfang:** Oft **40 Stunden** (bitte in der neuesten Verordnung bei der IHK Neuss tagesaktuell gegenprüfen, da es Anpassungen gab!).
 - **Beispielprojekt:** Konzeption und Einführung eines neuen Backup-Konzepts inklusive Einrichtung eines dedizierten Servers und regelmäßigen Test-Restores.
-- **Wichtig:** Es muss eine kaufmännische Entscheidung (z.B. Make-or-Buy, Nutzwertanalyse) und eine technische Umsetzung enthalten sein.
+- **Wichtig:** Es muss zwingend eine kaufmännische Entscheidung (z.B. Make-or-Buy, Nutzwertanalyse) und eine technische Umsetzung enthalten sein.
 
-- **Umfang:** Bei Fachinformatikern meist 40 Stunden (bzw. 80 Stunden je nach Ausbildungsordnung, bei Umschülern greifen oft die regulären 80 Stunden – bitte in der neuesten Verordnung checken!).
+---
+
+### 📝 Ablauf & Idiotensicheres Inhaltsverzeichnis (TOC)
+
 - **Projektantrag:** Muss zwingend über das IHK-Onlineportal eingereicht und genehmigt werden, **bevor** du mit dem Projekt startest!
-- **Dokumentation:** Die schriftliche Arbeit über das Projekt.
 - **Fachgespräch & Präsentation:** Du stellst dein Projekt dem Prüfungsausschuss vor (15 Min Präsentation, 15 Min Fachgespräch).
+- **Dokumentation:** Die schriftliche Arbeit über das Projekt. Die IHK Mittlerer Niederrhein erwartet in der Regel **max. 15 Seiten** reinen Text (ohne Deckblatt, Inhaltsverzeichnis und Anhang). Tabellen und Bilder fließen in die Seitenzahl ein.
+
+Hier ist ein fiktives, idiotensicheres Inhaltsverzeichnis (Table of Contents) als grobe Richtlinie. Passe dies an dein spezifisches Projekt an:
+
+<details open>
+<summary><b>TOC-Beispiel für Anwendungsentwickler (FIAE) ~ 15 Seiten Text</b></summary>
+
+1. **Einleitung / Projektumfeld** (ca. 1-2 Seiten)
+   - Vorstellung des Ausbildungsbetriebs
+   - Ausgangssituation & Zielsetzung des Projekts
+2. **Projektplanung** (ca. 2-3 Seiten)
+   - Make-or-Buy Entscheidung (Warum eine Eigenentwicklung?)
+   - Ressourcen- und Zeitplanung (Tabelle mit Stundenverteilung)
+3. **Analyse- & Entwurfsphase** (ca. 4-5 Seiten)
+   - Ist-Analyse (Wie wird es aktuell gemacht?) & Soll-Konzept
+   - Use-Cases & Datenbankmodellierung (ER-Diagramm)
+   - Mockups der Benutzeroberfläche (UI)
+4. **Implementierungsphase** (ca. 4-5 Seiten)
+   - Architektur & eingesetzte Technologien (z.B. C#, ASP.NET)
+   - Kern-Code-Snippets (Extrem wichtig: Erkläre hier deine eigene Programmierlogik. Zeige nicht hunderte Zeilen HTML, sondern die spannenden C#-Funktionen!)
+   - Umgang mit Problemen während der Entwicklung
+5. **Testphase** (ca. 2 Seiten)
+   - Testkonzept (z.B. Unit-Tests, Integrationstests)
+   - Testprotokoll & Ergebnisse
+6. **Fazit & Ausblick** (ca. 1 Seite)
+   - Soll/Ist-Vergleich (Wurden die 80 Stunden eingehalten?)
+   - Ausblick für das Produkt
+</details>
+
+<details open>
+<summary><b>TOC-Beispiel für Systemintegratoren (FISI) ~ 15 Seiten Text</b></summary>
+
+1. **Einleitung / Projektumfeld** (ca. 1-2 Seiten)
+   - Vorstellung des Ausbildungsbetriebs / Kunden
+   - Problemstellung & Zielsetzung
+2. **Projektplanung** (ca. 2-3 Seiten)
+   - Kaufmännische Bewertung (Nutzwertanalyse, Amortisationsrechnung)
+   - Zeitplanung (Tabelle mit Stundenverteilung)
+3. **Analyse- & Entwurfsphase** (ca. 3-4 Seiten)
+   - Ist-Analyse & Soll-Konzept
+   - Hardware- und Softwareauswahl (Vergleich verschiedener Angebote)
+   - Netzwerktopologie (Diagramm)
+4. **Realisierungsphase** (ca. 4-5 Seiten)
+   - Vorbereitung, Installation & Konfiguration der Systeme
+   - Umgang mit Problemen bei der Umsetzung (z.B. Treiber-Bugs, Routing-Probleme)
+5. **Testphase & Übergabe** (ca. 2-3 Seiten)
+   - Funktionstests (Wurden die Vorgaben des Kunden erfüllt?)
+   - Abnahme durch den Kunden
+   - Kurze Schulung/Einweisung der Mitarbeiter
+6. **Fazit & Ausblick** (ca. 1 Seite)
+   - Fazit (Lief alles in den 40 Stunden ab?)
+   - Lessons Learned
+</details>
 
 > [!CAUTION]
-> Beginne nie mit der Implementierung deines Projekts, bevor die IHK den Antrag nicht offiziell genehmigt hat! Sonst fällst du durch.
+> Beginne nie mit der Implementierung deines Projekts, bevor die IHK den Antrag nicht offiziell genehmigt hat! Sonst fällst du gnadenlos durch. (Das Datum der ersten Dateien im Quellcode/Git-Log darf nicht vor dem Zulassungsdatum liegen!).
 </details>
 
 <details>
