@@ -55,10 +55,18 @@ Du musst deine Urlaubs- und Krankheitstage penibel genau im Blick behalten. Die 
 [📥 Fehlzeiten-Tabelle (Excel) herunterladen](../templates/Fehlzeiten.xlsx)
 
 ### ⚠️ Die absolute Schmerzgrenze: 10% Fehlzeit
-Die IHK Mittlerer Niederrhein (und die Prüferausrechner) setzen bei Umschulungen eine **harte Grenze von ca. 10% der Ausbildungszeit** als Fehlzeiten an (Krankheit und unentschuldigtes Fehlen summiert). 
-- Wer darüber liegt, wird als "Einzelfall" geprüft.
-- Oft wird dann die **Zulassung zur AP2 verweigert** und du musst deine Umschulung um ein halbes Jahr verlängern!
-- **Urlaubstage zählen NICHT in diese 10% hinein!**
+Die IHK Mittlerer Niederrhein setzt gemäß Berufsbildungsgesetz (BBiG) bei Umschulungen eine **harte Grenze von ca. 10% der Ausbildungszeit** als Fehlzeiten an (Krankheit und unentschuldigtes Fehlen summiert). **Urlaubstage zählen NICHT in diese 10% hinein!**
+
+Wenn du diese 10% überschreitest, fällst du in eine Einzelfallprüfung. Hierbei gilt ein eiserner Grundsatz: **Die IHK allein entscheidet über deine Zulassung zur AP2!** 
+Weder die bitlc, noch dein Praktikumsbetrieb, noch dein Kostenträger (z.B. Agentur für Arbeit oder Rentenversicherung) haben hier ein Mitspracherecht.
+
+<details open>
+<summary><b>Ausnahmen bei über 10% Fehlzeit</b></summary>
+Auch wenn du die Grenze von 10% reißst, ist die Zulassung nicht automatisch verloren. Die IHK bewertet das Gesamtbild, ob du das Ausbildungsziel ("berufliche Handlungsfähigkeit") trotzdem erreichen kannst. Positive Faktoren für eine Gnaden-Zulassung sind:
+- **Sehr gute Noten:** Wenn deine Leistungsnachweise der bitlc und vor allem dein Ergebnis in der **AP1** überdurchschnittlich gut sind.
+- **Relevante Vorbildung:** Bereits vorhandenes Wissen aus früheren Tätigkeiten, das fehlende Ausbildungszeit kompensiert.
+- **Ernsthafte Erkrankungen:** Eine lange, durchgehende und unverschuldete Erkrankung (z.B. Krankenhausaufenthalt) wird gnädiger betrachtet als ständige Kurzzeiterkrankungen (viele einzelne Fehltage).
+</details>
 
 <details open>
 <summary><b>Schritt-für-Schritt: Wie fülle ich die Excel-Tabelle aus?</b></summary>
