@@ -95,6 +95,12 @@ Ohne UML keine Zulassung des Abschlussprojekts!
 - Klassendiagramme & Sequenzdiagramme (inkl. Code-Beispielen).
 - Live-Rendering im Browser mit Mermaid.js Syntax.
 
+### 1️⃣3️⃣ [Clean Code, Architektur & Prinzipien](./docs/13_Code_Architektur_Prinzipien.md)
+Von 1 Class per File bis zu Utility-First. So schreiben Profis.
+- Die Heiligen drei: DRY, KISS, YAGNI.
+- Die 5 SOLID-Prinzipien der OOP tiefgehend erklärt.
+- CSS Methodologien: BEM, OOCSS, Utility-First und SFC.
+
 ---
 
 ## 🤝 Contributing / Mitmachen
