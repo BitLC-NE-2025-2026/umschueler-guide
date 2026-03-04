@@ -23,12 +23,12 @@ Das Problem: Die meisten nutzen ChatGPT absolut ineffizient ("Warum geht das nic
 <details open>
 <summary><b>Die Top 3 Modelle (Stand: März 2026)</b></summary>
 
-- **1. Anthropic Claude 3.5 / 3.7 Sonnet:**
-  - *Stärke:* Der absolute, amtierende **König beim Programmieren (Code Generation)**! Claude ist deutlich "menschlicher" in der Texterstellung, fokussiert und halluziniert extrem selten Code. Perfekt für das Schreiben und Refactoren komplexer Architekturen.
-- **2. OpenAI GPT-4.5 / o3-mini (ChatGPT Plus):**
-  - *Stärke:* Logik und Ökosystem. GPT dominiert durch Vielseitigkeit (Bilder, Web-Scraping, Python-Umgebung). Die neuen `o3-mini` (Reasoning) Modelle sind extrem gut in Mathe und schwerster Coder-Logik (Algorithmik), weil sie vor der Ausgabe in Gedankenketten "nachdenken".
-- **3. Google Gemini 1.5 / 2.0 Pro:**
-  - *Stärke:* Das gigantische **Kontext-Fenster**. Gemini kann bis zu 2 Millionen Token auf einmal "lesen". Das bedeutet: Du kannst die gesamte Codebase deiner App (hunderte `.cs` Dateien) auf einmal als Zip hochladen, und die KI behält den Überblick über das ganze Projekt, ohne den Faden zu verlieren.
+- **1. Anthropic Claude 3.7 Sonnet:**
+  - *Stärke:* Der absolute, amtierende **König beim Programmieren**. Claude 3.7 dominiert Entwickler-Benchmarks (über 70% im SWE-Bench). Es nutzt sogenanntes *"Hybrid Reasoning"*, bei dem es extrem schnell Standard-Code tippt, aber bei schweren Algorithmen in einen tiefen "Extended Thinking" Modus wechselt. Das Tool *Claude Code* erlaubt es ihm sogar, dein lokales Terminal direkt zu bedienen!
+- **2. OpenAI GPT-4.5 & o3-mini (ChatGPT Plus):**
+  - *Stärke:* OpenAI hat den Markt aufgespalten. **GPT-4.5** ist das Modell für riesiges Weltwissen, kreative Texte und breite General-Aufgaben. **o3-mini** hingegen ist das hoch-optimierte "Reasoning-Modell" für STEM (Mathe, Code, Logik). Es löst komplexe C#-Algorithmen durch extrem tiefes schrittweises Nachdenken ("Reasoning Effort"), bevor es auch nur ein Wort tippt.
+- **3. Google Gemini 2.0 Pro:**
+  - *Stärke:* Das gigantische **Kontext-Fenster**. Gemini kann problemlos 2 Millionen Token auf einmal "lesen". Das bedeutet: Du kannst die gesamte Codebase deiner App (hunderte `.cs` Dateien) auf einmal als Zip hochladen, und die KI behält den Überblick über das ganze Projekt, ohne den Faden zu verlieren.
 </details>
 
 <details open>
@@ -42,11 +42,11 @@ Als Umschüler mit dem [GitHub Student Pack](./03_Software_Tools.md) erhältst d
 <details open>
 <summary><b>🔥 Der Gamechanger: MCP (Model Context Protocol) & Agentic Workflows</b></summary>
 
-Der neueste Industrie-Standard (2026). Früher konnte ChatGPT nur Text lesen und schreiben. **MCP (Model Context Protocol)** ändert alles: Es erlaubt KIs, *direkt* mit deinen lokalen Tools zu sprechen!
+Bis vor kurzem konnten LLMs nur Text im Browser generieren. **MCP (Model Context Protocol)** – ein von Anthropic gestarteter Open-Source-Standard, der 2025/2026 die IT eroberte – ändert alles: Es erlaubt KIs (wie Claude oder GPT), über standardisierte APIs *direkt* und bidirektional mit deinen Enterprise Tools zu sprechen!
 
-- **Wie es funktioniert:** Du startest einen lokalen "MCP Server" auf deinem Windows-PC. Die KI (z.B. in der IDE "Cursor" oder in der Claude Desktop App) verbindet sich damit.
-- **Der Nutzen:** Die KI kann nun autonom Befehle ausführen. Sie liest direkt aus deiner lokalen PostgreSQL Datenbank, sie führt selbstständig `dotnet build` in deinem Terminal aus, schaut sich die Fehlermeldungen an und korrigiert den Code live, ohne dass du auch nur einmal Copy & Paste nutzen musst!
-- **Agentic AI:** Dadurch wird die KI vom reinen "Chatbot" zum "Agenten", der auf deinem Rechner wie ein Junior-Entwickler selbstständig Dateien anlegt, GitHub-Tickets liest und Jira-Tasks schließt.
+- **Wie es funktioniert:** Ein lokaler oder Remote "MCP Server" stellt eine Schnittstelle zu einem Tool bereit (z.B. Slack, GitHub, PostgreSQL, Notion oder deinem Dateisystem). KIs in modernen IDEs (wie *Cursor* oder *Zed*) verbinden sich mit dem Server.
+- **Der Nutzen:** Die KI kann nun autonom Befehle ausführen. Du sagst: *"Finde das letzte Ticket in Jira, lese die Bug-Beschreibung, analysiere meine lokale Datenbank dazu und behebe den Fehler im C#-Code."* Die KI lädt die Tickets und DB-Schemas über MCP-Server selbstständig herunter, führt `dotnet build` aus, checkt auf Fehler und liefert die Lösung, ohne dass du auch nur einmal Copy & Paste nutzt!
+- **Agentic AI:** Dadurch wird die KI vom reinen "Chatbot" zum "Agenten", der echte Geschäftsprozesse automatisiert und dir wie ein realer Kollege zuarbeitet. Mit den neuesten Updates (2026) können **"MCP Apps"** sogar ihre eigenen kleinen Benutzeroberflächen (UIs) direkt in den Chat rendern.
 </details>
 
 ---
