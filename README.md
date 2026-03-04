@@ -100,6 +100,26 @@ Von 1 Class per File bis zu Utility-First. So schreiben Profis.
 - Die Heiligen drei: DRY, KISS, YAGNI.
 - Die 5 SOLID-Prinzipien der OOP tiefgehend erklärt.
 - CSS Methodologien: BEM, OOCSS, Utility-First und SFC.
+- Entwicklungsmethoden: TDD (Red-Green-Refactor) und DDD.
+
+### 1️⃣4️⃣ [Der IT-Lebenslauf, Portfolio & LinkedIn](./docs/14_Bewerbung_Portfolio_LinkedIn.md)
+Dein Weg zum Job. Heb dich von der Masse ab!
+- Der perfekte Skills-orientierte Lebenslauf & modernes Foto.
+- LinkedIn und Inbound-Recruiting für Umschüler.
+- Das GitHub-Profil als echte Visitenkarte (Profil-README, Readme-Screenshots).
+
+### 1️⃣5️⃣ [Tools & Einrichtung für FISI & FIAE](./docs/15_Tools_Einrichtung_FISI_FIAE.md)
+Das absolute Must-Have Setup für den ersten Praktikumstag.
+- **Allgemein:** Windows Terminal (Oh-My-Posh), GitKraken.
+- **FIAE:** Visual Studio (Code), DBeaver (SQL GUI), Postman/Bruno, Docker.
+- **FISI:** Termius, mRemoteNG, Wireshark, Advanced IP Scanner, VMware/VirtualBox.
+
+### 1️⃣6️⃣ [KI Prompting, Modelle & Formate](./docs/16_KI_Prompting_Modelle.md)
+Ein Entwickler *mit* KI ersetzt den Entwickler *ohne* KI.
+- Modelle erklärt (Claude 3.5 Sonnet vs. GPT-4o vs. Gemini).
+- Prompt-Engineering (Rolle, Kontext, Constraints).
+- Formatausgabe: Wann nutze ich Human-readable **Markdown** vs. maschinenlesbarem **JSON**?
+- Gefahren: Halluzinationen und strenger NDA-Datenschutz in der Firma.
 
 ---
 
