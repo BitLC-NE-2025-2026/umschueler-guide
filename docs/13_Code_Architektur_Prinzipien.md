@@ -6,11 +6,12 @@ Code wird einmal geschrieben, aber hundertmal gelesen. Deshalb reicht es nicht, 
 
 ---
 
-## 📑 Inhaltsverzeichnis
+### 📑 Inhaltsverzeichnis
 1. [🧠 Die Heilige Dreifaltigkeit: DRY, KISS, YAGNI](#-die-heilige-dreifaltigkeit-dry-kiss-yagni)
 2. [🧹 Clean Code & Struktur](#-clean-code--struktur)
 3. [🏛️ Die SOLID Prinzipien (Tieferer Einblick)](#-die-solid-prinzipien-tieferer-einblick)
 4. [🎨 Frontend & CSS Architekturen (SFC, BEM, Utility-First)](#-frontend--css-architekturen-sfc-bem-utility-first)
+5. [🔄 Entwicklungsmethoden (TDD & DDD)](#-entwicklungsmethoden-tdd--ddd)
 
 ---
 
@@ -152,6 +153,42 @@ Ein modernes Architekturkonzept (bekannt durch Vue.js, Svelte, React, aber auch 
 **Das Konzept:** Eines der stärksten Probleme früherer Websites war die Trennung nach **Technologie** (Ein Ordner für alle HTMLs, ein Ordner für alle JS-Dateien, einer für CSS). Oft musste man durch 3 Dateien springen, um einen einzigen Button anzupassen.
 **SFC ändert das (Trennung nach Komponente):** 
 Dein "Button" bekommt *eine einzige Datei*. In dieser Datei lebt das HTML (Struktur), das Button-CSS (Aussehen, isoliert nur auf diesen Button) und das JavaScript (Verhalten) direkt beieinander. Löst du den Button, wird sein CSS automatisch mit gelöscht und hinterlässt keine Altlasten!
+</details>
+
+---
+
+## 🔄 Entwicklungsmethoden (TDD & DDD)
+
+Neben den Prinzipien, wie man Code strukturiert, gibt es auch ganze Methoden, *wie* man einen Entwicklungsprozess überhaupt angeht.
+
+<details open>
+<summary><b>TDD (Test-Driven Development)</b></summary>
+
+Bei TDD wird, vereinfacht gesagt, **der Test vor dem eigentlichen Code geschrieben**. Das zwingt dich dazu, vorher exakt über die API und das gewünschte Verhalten deiner Klasse nachzudenken, anstatt im Nachhinein "nur zu schauen, ob das Gebaute zufällig funktioniert".
+
+Der TDD-Workflow ist extrem berühmt und nennt sich **Red-Green-Refactor**:
+1. 🔴 **Red:** Du schreibst einen (Unit-)Test für ein neues Feature, das es noch gar nicht gibt. Der Test *muss* naturgemäß fehlschlagen (rot aufleuchten), da der Produktionscode noch fehlt.
+2. 🟢 **Green:** Du schreibst nun den *absolut minimal nötigen* Produktionscode, um diesen Test (und nur diesen!) zum Bestehen (Grün) zu bringen. Sauberkeit ist hier kurzzeitig zweitrangig!
+3. 🛠️ **Refactor:** Der Test ist grün! Nun überarbeitest du den wild zusammengehackten Code, machst ihn sauber (DRY, saubere Variablennamen), löst ihn in kleine Methoden auf. Da du jederzeit deine grünen Tests im Hintergrund mitlaufen hast, bist du zu 100% sicher, dass dein Refactoring nichts kaputt gemacht hat.
+</details>
+
+<details open>
+<summary><b>BDD (Behavior-Driven Development)</b></summary>
+
+BDD ist die Weiterentwicklung von TDD. Es fokussiert sich weniger auf die technischen Details ("Gibt die Funktion ein int zurück?"), sondern auf das *Verhalten* des Systems aus Sicht des Kunden oder Business-Analysten.
+Tests in BDD (z.B. mit dem Tool *Cucumber* oder *SpecFlow* in C#) werden fast in reiner Alltagssprache (der sogenannten "Gherkin"-Syntax) geschrieben:
+- **Given** (Gegeben sei): Ein registrierter Benutzer mit leerem Warenkorb.
+- **When** (Wenn): Er auf "Kaufen" bei einem 10€ Buch klickt.
+- **Then** (Dann): Sollte sein Warenkorb-Wert 10€ betragen.
+</details>
+
+<details open>
+<summary><b>DDD (Domain-Driven Design)</b></summary>
+
+DDD ist eine Methode, um **sehr komplexe Software** zu designen (oft in Microservice-Architekturen genutzt). Es geht nicht um die Technik, sondern darum, die Software exakt nach der echten Geschäftswelt (der "Domain") des Kunden zu modellieren.
+
+- **Ubiquitous Language (Allgegenwärtige Sprache):** Entwickler und Business-Experten MÜSSEN im gesamten Projekt exakt dieselben Begriffe nutzen. Wenn die Fachabteilung von einem "Flugpassagier" redet, darf im Code nicht `class User` oder `class Customer` stehen, sondern es MUSS zwingend `class FlightPassenger` heißen.
+- **Bounded Contexts:** Ein großes System wird in kleine, fachlich streng getrennte "Kontexte" unterteilt. In der Buchhaltung bedeutet das Wort "Artikel" etwas anderes (z.B. ein Kostenpunkt) als im Versandlager (z.B. ein physischer Karton mit Maßen). Anstatt eine gewaltige `class Artikel` mit 50 Eigenschaften zu bauen, baut man zwei getrennte, kleinere Artikel-Klassen, die nur in ihrem eigenen Bounded Context (Buchhaltung oder Versand) existieren.
 </details>
 
 ---
